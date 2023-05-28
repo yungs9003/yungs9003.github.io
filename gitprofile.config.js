@@ -35,17 +35,6 @@ const config = {
     'C & C++',
     'Java & Kotlin',
     'Python',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
@@ -90,13 +79,13 @@ const config = {
       institution: 'Chinese Character Proficiency Test',
       degree: '3',
       from: '2011',
-      to: 'present',
+      to: '',
     },
     {
       institution: 'Korean History Proficiency Test',
       degree: '3',
       from: '2012',
-      to: 'present',
+      to: '',
     },
   ],
 
