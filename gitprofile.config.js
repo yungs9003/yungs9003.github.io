@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'GyuSung Yoon', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,30 +11,30 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: '',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: '',
+    phone: '010-3919-6422',
+    email: 'yoongyusung@naver.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
+    'C & C++',
+    'Java & Kotlin',
+    'Python',
     'React.js',
     'Node.js',
     'Nest.js',
@@ -49,18 +49,32 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Pohang Daeheung Elementary School',
+      position: 'Student',
+      from: '2006',
+      to: '2012',
+      companyLink: '',
+    },
+   {
+      company: 'Pohang Daeheung Middle School',
+      position: 'Student',
+      from: '2013',
+      to: '2015',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Pohang High School',
+      position: 'Student',
+      from: '2016',
+      to: '2018',
+      companyLink: '',
+    },
+    {
+      company: 'Sungkyunkwan University',
+      position: 'Student',
+      from: '2019',
+      to: 'present',
+      companyLink: '',
     },
   ],
   /* certifications: [
@@ -73,16 +87,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Chinese Character Proficiency Test',
+      degree: '3',
+      from: '2011',
+      to: 'present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Korean History Proficiency Test',
+      degree: '3',
       from: '2012',
-      to: '2014',
+      to: 'present',
     },
   ],
 
